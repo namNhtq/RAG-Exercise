@@ -69,7 +69,7 @@ To run the code and exercises, ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd RAG Exercise
+   cd RAG-Exercise
    ```
 3. Create a virtual environment:
    ```bash
