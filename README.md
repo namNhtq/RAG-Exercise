@@ -65,11 +65,11 @@ To run the code and exercises, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/Exercise_Intro_to_RAG.git
+   git clone https://github.com/abhinav-kimothi/RAG-Exercise.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Exercise_Intro_to_RAG
+   cd RAG Exercise
    ```
 3. Create a virtual environment:
    ```bash
